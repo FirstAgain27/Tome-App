@@ -151,18 +151,17 @@ Swagger/ReDoc: [`http://localhost:8000/api/v1/docs`](http://localhost:8000/api/v
 
 ---
 
-## 🎯 Чему я научился
+## 🎯 В процессе
 
-- Проектировать REST API на Django REST Framework
-- Писать сериализаторы (включая вложенные) и вьюхи (APIView + ViewSet)
-- Использовать DefaultRouter для автоматической маршрутизации
-- Реализовывать JWT-аутентификацию через `simplejwt`
-- Интегрировать Vue.js с DRF-бэкендом (Axios, Pinia, Vue Router)
-- Работать с PostgreSQL и проектировать связи между моделями
+- Спроектировал REST API на Django REST Framework
+- Написал сериализаторы (включая вложенные) и вьюхи (APIView + ViewSet)
+- Использовал DefaultRouter для автоматической маршрутизации
+- Реализовал JWT-аутентификацию через `simplejwt`
+- Интегрировал Vue.js с DRF-бэкендом (Axios, Pinia, Vue Router)
+- Работал с PostgreSQL и спроектировал связи между моделями
 
 ---
 
 ## 👤 Автор
 
 GitHub: https://github.com/FirstAgain27
-```
