@@ -1,8 +1,5 @@
-Отлично, информации достаточно. Держи готовый README — скопируй и вставь в файл, GitHub отрендерит красиво.
 
 ---
-
-```markdown
 # 📚 Tome App — Интернет-магазин книг
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
